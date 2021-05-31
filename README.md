@@ -1,1 +1,1 @@
-# question-generation-and-answering
+This is a PyTorch reimplemenation of [Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images](https://arxiv.org/abs/1804.01654) and [Point2Mesh: A Self-Prior for Deformable Meshes](https://arxiv.org/abs/2105.13962)
